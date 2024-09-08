@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/mudithshetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mudithshetty" height="30" width="40" /></a>
 <a href="https://kaggle.com/mudithdshetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mudithdshetty" height="30" width="40" /></a>
 <a href="https://instagram.com/mudith.shetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mudith.shetty" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/datatypenull" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@datatypenull" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/datatypenull](https://youtube.com/@datatypenull?si=VxUrJKGy3TdRezbk)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@datatypenull" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
