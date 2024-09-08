@@ -170,3 +170,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mudithdshetty&show_icons=true&locale=en" alt="mudithdshetty" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mudithdshetty&" alt="mudithdshetty" /></p>
+
+[![An image of @mudithdshetty's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mudithdshetty)](https://holopin.io/@mudithdshetty)
